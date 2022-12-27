@@ -1,5 +1,6 @@
 
-bsturl,219.151.31.38/liveplay-kk.rtxapp.com
+bsturl,aliyun-upcloud-live.bestvcdn.com.cn
+219.151.31.38/liveplay-kk.rtxapp.com
 183.207.255.209
 112.25.48.11
 116.177.25.40:8080
