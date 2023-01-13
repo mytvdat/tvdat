@@ -1,5 +1,5 @@
 
-bsturl,aliyun-upcloud-live.bestvcdn.com.cn
+bsturl,tt-live.bestvcdn.com.cn
 223.109.123.15/liveplay-kk.rtxapp.com
 219.151.31.38/liveplay-kk.rtxapp.com
 183.207.255.209
@@ -10,6 +10,7 @@ bsturl,aliyun-upcloud-live.bestvcdn.com.cn
 211.91.52.102/keonline.shanghai.liveplay.qq.com
 122.136.191.71/keonline.shanghai.liveplay.qq.com
 112.132.214.166/liveplay-kk.rtxapp.com
+aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
 d953c45ae944de6f1329edb2802f51f4.v.smtcdns.net/keonline.shanghai.liveplay.qq.com
 tvbxh,mitv://generationnexxxt.com:9906/2c7d1008107d4fbaa09bd0e3ebb540c2
