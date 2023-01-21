@@ -13,13 +13,13 @@ bsturl,tt-live.bestvcdn.com.cn
 aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
 d953c45ae944de6f1329edb2802f51f4.v.smtcdns.net/keonline.shanghai.liveplay.qq.com
-tvbxh,mitv://generationnexxxt.com:9906/2c7d1008107d4fbaa09bd0e3ebb540c2
+tvbxh,http://line.premiumpowers.net:80/Manuel/1234567/941620
 http://50.7.168.234:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 wlty,http://www.yshmzmc.top/gtjm.php?id=live1011
 dsxw,http://www.yshmzmc.top/gtjm.php?id=live1014
 http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 tvbsxw,rtmp://59.124.75.138/sat/tv551
-elev,rtmp://59.124.75.150/sat/tv731
+elev,http://www.yshmzmc.top/gtjm.php?id=live1069
 alta,mitv://generationnexxxt.com:9906/c9df75ba53984668a82e0c6f3ec82985
 http://50.7.168.234:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct=19225&tsum=5cb9d121709b107014d31cf856f3572e
 rtmp://59.124.75.150/sat/md041
