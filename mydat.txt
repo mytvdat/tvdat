@@ -1,5 +1,6 @@
 
-bsturl,223.109.123.15/liveplay-kk.rtxapp.com
+bsturl,tt-live.bestvcdn.com.cn
+223.109.123.15/liveplay-kk.rtxapp.com
 219.151.31.38/liveplay-kk.rtxapp.com
 183.207.255.209
 112.25.48.11
@@ -14,8 +15,8 @@ aliyun-shbu-live.bestvcdn.com.cn
 d953c45ae944de6f1329edb2802f51f4.v.smtcdns.net/keonline.shanghai.liveplay.qq.com
 tvbxh,mitv://generationnexxxt.com:9906/2c7d1008107d4fbaa09bd0e3ebb540c2
 http://50.7.168.234:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
-wlty,rtmp://59.124.75.150/sat/tv721
-dsxw,mitv://generationnexxxt.com:9906/539d1a0502b64b6cba3f7e04ce7d584d
+wlty,http://www.yshmzmc.top/gtjm.php?id=live1011
+dsxw,http://www.yshmzmc.top/gtjm.php?id=live1014
 http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 tvbsxw,rtmp://59.124.75.138/sat/tv551
 elev,rtmp://59.124.75.150/sat/tv731
@@ -27,7 +28,7 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 ts,rtmp://59.124.75.150/sat/tv071
 ms,rtmp://59.124.75.150/sat/tv051
 hs,rtmp://59.124.75.150/sat/tv111
-nbatv,mitv://generationnexxxt.com:9906/715d4de4beb949a885ae7bb89185b4bd
+nbatv,http://line.premiumpowers.net:80/Manuel/1234567/941562
 nbatv1,mitv://generationnexxxt.com:9906/a02f09e74d1d41f792f6292a76bd4190
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 nbatv2,mitv://generationnexxxt.com:9906/93d96dde6b3141399f2e71c9b57c93bf
