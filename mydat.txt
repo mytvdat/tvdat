@@ -24,9 +24,9 @@ http://50.7.168.234:8278/eltasport_twn/playlist.m3u8?tid=MB5B8133126081331260&ct
 rtmp://59.124.75.150/sat/md041
 hbo,http://50.7.168.234:8278/hbohd_twn/playlist.m3u8?tid=m8d785f4e022616401837&ct=17877&tsum=56e767abfc65234db52b017576b00403
 https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
-ts,rtmp://59.124.75.150/sat/tv071
-ms,rtmp://59.124.75.150/sat/tv051
-hs,rtmp://59.124.75.150/sat/tv111
+ts,http://2022.stream-link.org/playlist/ttv
+ms,http://2022.stream-link.org/playlist/ftv_news
+hs,http://2022.stream-link.org/playlist/cts_zy
 nbatv,http://line.premiumpowers.net:80/Manuel/1234567/941562
 nbatv1,mitv://generationnexxxt.com:9906/a02f09e74d1d41f792f6292a76bd4190
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
