@@ -1,5 +1,6 @@
 
-bsturl,223.109.33.33/liveplay-kk.rtxapp.com
+bsturl,119.28.164.228/liveplay-kk.rtxapp.com
+223.109.33.33/liveplay-kk.rtxapp.com
 120.221.209.44/liveplay-kk.rtxapp.com
 124.225.44.178/liveplay-kk.rtxapp.com
 183.207.255.209
@@ -12,11 +13,10 @@ bsturl,223.109.33.33/liveplay-kk.rtxapp.com
 112.132.214.166/liveplay-kk.rtxapp.com
 aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
-d953c45ae944de6f1329edb2802f51f4.v.smtcdns.net/keonline.shanghai.liveplay.qq.com
 tvbxh,http://line.premiumpowers.net:80/Manuel/1234567/941620
 http://50.7.168.234:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 wlty,http://www.yshmzmc.top/gtjm.php?id=live1011
-dsxw,http://www.336699.live:1935/blocksix/4gtv-live114.stream/chunklist.m3u8
+dsxw,mitv://generationnexxxt.com:19806/354021460d8f4b12824304af129ccc7c
 http://frankfwang.synology.me:9000/live.m3u8?c=10
 http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 tvbsxw,http://2022.stream-link.org/playlist/tvbs_news
