@@ -1,5 +1,6 @@
 
-bsturl,120.221.209.44/liveplay-kk.rtxapp.com
+bsturl,203.205.136.4/liveplay-kk.rtxapp.com
+120.221.209.44/liveplay-kk.rtxapp.com
 120.232.30.115/liveplay-kk.rtxapp.com
 223.109.33.33/liveplay-kk.rtxapp.com
 124.225.44.178/liveplay-kk.rtxapp.com
