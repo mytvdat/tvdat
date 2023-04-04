@@ -2,7 +2,7 @@ function GetRequest(e) {
     var u = e; 
     var theRequest = new Object();
     if (u.indexOf("?")>0) {
-        var str = u.substr(u.indexOf("?"));
+        var str = u.substr(u.indexOf("?")+1);
         strs = str.split("&");
         for(var i = 0; i < strs.length; i ++) {
             theRequest[strs[i].split("=")[0]] = unescape(strs[i].split("=")[1]);
