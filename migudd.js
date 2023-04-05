@@ -23,7 +23,7 @@ Request = GetRequest(e);
     s = s.split("");
     for (var u = t.split("")[s[0]] || "e", l = r.split("")[s[1]] || "t", c = n.split("")[s[2]] || "c", f = a.split("")[a.split("").length - s[3]] || "n", d = o.split(""), h = [], p = 0; 2 * p < d.length; p++)
         switch (h.push(d[d.length - p - 1]),
-        p < d.length - p - 1 && h.push(o[p]),
+        h.push(d[p]),
             p) {
             case 1:
                 h.push(u);
