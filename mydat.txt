@@ -2,6 +2,7 @@
 bsturl,39.145.32.178/liveplay-kk.rtxapp.com
 157.255.133.12/liveplay-kk.rtxapp.com
 140.249.29.217/liveplay-kk.rtxapp.com
+111.123.59.155/liveplay-kk.rtxapp.com
 aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
 tvbxh,http://line.premiumpowers.net:80/Manuel/1234567/941620
