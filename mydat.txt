@@ -1,5 +1,5 @@
 
-bsturl,121.51.91.69/liveplay-kk.rtxapp.com
+bsturl,39.145.32.178/liveplay-kk.rtxapp.com
 157.255.133.12/liveplay-kk.rtxapp.com
 140.249.29.217/liveplay-kk.rtxapp.com
 aliyun-upcloud-live.bestvcdn.com.cn
