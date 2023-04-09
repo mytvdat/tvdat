@@ -2,6 +2,7 @@
 bsturl,58.49.187.155/liveplay-kk.rtxapp.com
 39.145.32.178/liveplay-kk.rtxapp.com
 157.255.133.12/liveplay-kk.rtxapp.com
+58.144.154.126/liveplay-kk.rtxapp.com
 140.249.29.217/liveplay-kk.rtxapp.com
 111.123.59.155/liveplay-kk.rtxapp.com
 aliyun-upcloud-live.bestvcdn.com.cn
