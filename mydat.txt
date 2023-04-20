@@ -1,5 +1,6 @@
 
-bsturl,211.91.252.89/dongfang5g-v5-live.bestvcdn.com.cn
+bsturl,58.144.154.126/liveplay-kk.rtxapp.com
+211.91.252.89/dongfang5g-v5-live.bestvcdn.com.cn
 58.49.187.155/liveplay-kk.rtxapp.com
 39.145.32.178/liveplay-kk.rtxapp.com
 157.255.133.12/liveplay-kk.rtxapp.com
