@@ -12,7 +12,7 @@ tvbxh,mitv://generationnexxxt.com:19806/18d7387cc825496db789bbfa731a5707
 http://50.7.168.234:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 wlty,http://123.51.230.108:18509/.m3u8
 rtmp://119.81.124.89/sat/tv721
-dsxw,mitv://generationnexxxt.com:19806/6734343eb91244a8b6752ce896b2402f
+dsxw,mitv://generationnexxxt.com:19806/ba830fdb097a47af9f74ef81c7d1d715
 http://frankfwang.synology.me:9000/live.m3u8?c=10
 http://50.7.168.234:8278/ettvnews/playlist.m3u8?tid=m208c21bf386611408694&ct=17874&tsum=d1b4de373c886cd8015974fa8c5d6d12
 tvbsxw,http://2022.stream-link.org/playlist/tvbs_news
@@ -26,8 +26,8 @@ https://livecdn.fptplay.net/hda1/hbo_hls.smil/chunklist_b2500000.m3u8
 ts,http://2022.stream-link.org/playlist/ttv
 ms,http://2022.stream-link.org/playlist/ftv_news
 hs,http://2022.stream-link.org/playlist/cts_zy
-nbatv,http://line.premiumpowers.net:80/Manuel/1234567/941562
-nbatv1,mitv://generationnexxxt.com:9906/a02f09e74d1d41f792f6292a76bd4190
+nbatv,https://epg.pw/stream/c29918e97ffd20f83ccdd9c6e779ecd504a732b384ab961e7ed1e1c21ad23d6d.ctv
+nbatv1,mitv://generationnexxxt.com:19806/65f8f2a53b6342ffb4b8d2a8542bc623
 https://glxlmn026c.singularcdn.net.br/playout_01/playlist-720p.m3u8
 nbatv2,mitv://generationnexxxt.com:9906/93d96dde6b3141399f2e71c9b57c93bf
 
