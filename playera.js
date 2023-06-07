@@ -53,3 +53,6 @@ function startPlayer(uri) {
 	uri = uri.replace(gghken, "");
 	m3u8Uri = uri;
 }
+
+$(document)
+
