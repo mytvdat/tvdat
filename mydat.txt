@@ -1,5 +1,6 @@
 
-bsturl,39.145.32.117/liveplay-kk.rtxapp.com
+bsturl,222.73.33.239/newpublic.livev5.bestvcdn.com.cn/live
+39.145.32.117/liveplay-kk.rtxapp.com
 58.144.154.126/liveplay-kk.rtxapp.com
 58.49.187.155/liveplay-kk.rtxapp.com
 39.145.32.178/liveplay-kk.rtxapp.com
