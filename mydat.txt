@@ -1,5 +1,8 @@
 
 bsturl,live-gitv-hb-yh.189smarthome.com
+124.232.139.223/live-gitv-hb-yh.189smarthome.com
+218.98.30.195/live-gitv-hb-yh.189smarthome.com
+175.6.244.246/liveplay-kk.rtxapp.com
 116.162.164.234/liveplay-kk.rtxapp.com
 k51-live.bestvcdn.com.cn/live
 aliyun-upcloud-live.bestvcdn.com.cn
