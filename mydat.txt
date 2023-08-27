@@ -1,9 +1,8 @@
 
-bsturl,live-gitv-hb-yh.189smarthome.com
-124.232.139.223/live-gitv-hb-yh.189smarthome.com
-218.98.30.195/live-gitv-hb-yh.189smarthome.com
-175.6.244.246/liveplay-kk.rtxapp.com
-116.162.164.234/liveplay-kk.rtxapp.com
+bsturl,221.228.219.83/fjnetv51.live.bestvcdn.com.cn/1
+live-gitv-hb-yh.189smarthome.com
+119.188.155.99/liveplay-kk.rtxapp.com
+175.6.92.54/liveplay-kk.rtxapp.com
 k51-live.bestvcdn.com.cn/live
 aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
