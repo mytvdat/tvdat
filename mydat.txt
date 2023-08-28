@@ -1,5 +1,6 @@
 
-bsturl,221.228.219.83/fjnetv51.live.bestvcdn.com.cn/1
+bsturl,1.15.108.162/liveplay-kk.rtxapp.com
+120.233.81.163/liveplay-kk.rtxapp.com
 live-gitv-hb-yh.189smarthome.com
 119.188.155.99/liveplay-kk.rtxapp.com
 175.6.92.54/liveplay-kk.rtxapp.com
