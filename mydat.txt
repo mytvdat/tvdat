@@ -1,5 +1,6 @@
 
-bsturl,119.188.155.99/liveplay-kk.rtxapp.com
+bsturl,180.101.246.161/liveplay-kk.rtxapp.com
+119.188.155.99/liveplay-kk.rtxapp.com
 120.233.81.163/liveplay-kk.rtxapp.com
 live-gitv-hb-yh.189smarthome.com
 119.188.155.99/liveplay-kk.rtxapp.com
