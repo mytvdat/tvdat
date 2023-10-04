@@ -1,7 +1,7 @@
 
 bsturl,180.101.246.161/liveplay-kk.rtxapp.com
 123.247.80.97/liveplay-kk.rtxapp.com
-live-gitv-hb-yh.189smarthome.com
+live-gitv-xj-yh.189smarthome.com
 180.101.246.161/liveplay-kk.rtxapp.com
 k51-live.bestvcdn.com.cn/live
 aliyun-upcloud-live.bestvcdn.com.cn
