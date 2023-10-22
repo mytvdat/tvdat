@@ -1,5 +1,6 @@
 
-bsturl,live-gitv-xj-yh.189smarthome.com
+bsturl,113.207.30.105/sitv.mobilev51.live.bestvcdn.com.cn/0
+180.101.246.161/liveplay-kk.rtxapp.com
 live-gitv-sx-yh.189smarthome.com
 43.141.130.51/sitv.mobilev51.live.bestvcdn.com.cn/0
 k51-live.bestvcdn.com.cn/live
