@@ -6,7 +6,8 @@ live-gitv-sx-yh.189smarthome.com
 k51-live.bestvcdn.com.cn/live
 aliyun-upcloud-live.bestvcdn.com.cn
 aliyun-shbu-live.bestvcdn.com.cn
-tvbxh,http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
+tvbxh,https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.ctv
+http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
 http://50.7.168.234:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 wlty,http://123.51.230.108:18509/.m3u8
 rtmp://119.81.124.89/sat/tv721
