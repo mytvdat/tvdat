@@ -1,6 +1,6 @@
 
 bsturl,113.207.30.105/sitv.mobilev51.live.bestvcdn.com.cn/0
-180.101.246.161/liveplay-kk.rtxapp.com
+124.225.13.13/gxbcott-livev52.bestvcdn.com.cn/0
 ts-gitv-hb-yh.189smarthome.com
 43.141.130.51/sitv.mobilev51.live.bestvcdn.com.cn/0
 111.28.16.32/liveplay-kk.rtxapp.com
