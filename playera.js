@@ -12,7 +12,7 @@ function edecode(b){var a="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0
     if(!b){return b}b+='';do{n=a.indexOf(b.charAt(c++));o=a.indexOf(b.charAt(c++));h=a.indexOf(b.charAt(c++));j=a.indexOf(b.charAt(c++));e=n<<18|o<<12|h<<6|j;d=e>>16&0xff;g=e>>8&0xff;m=e&0xff;
      if(h==64){f[l++]=String.fromCharCode(d)}else if(j==64){f[l++]=String.fromCharCode(d,g)}else{f[l++]=String.fromCharCode(d,g,m)}}
     while(c<b.length);p=f.join('');return p}
-function decodeb(str,key){var d=new Date();var n=d.getDate();var h=d.getHours();model="GG";string=edecode(str);
+function decodeb(str,key){var d=new Date();var n=d.getDate();var h=d.getHours();model="GGIPTV";string=edecode(str);
 key=key+model+ips+n+h;key=key.split("").reverse().join("");len=key.length;code="";for(i=0;i<string.length;i++){k=i%len;code+=String.fromCharCode(string.charCodeAt(i)^key.charCodeAt(k))}stra=edecode(code);return stra}
 
 $(document)
