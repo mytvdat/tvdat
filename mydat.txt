@@ -15,7 +15,8 @@ live-gitv-hb-yh.189smarthome.com
 43.141.130.51/sitv.mobilev51.live.bestvcdn.com.cn/0
 fjbciptv.live.bestvcdn.com.cn
 tt-live.bestvcdn.com.cn
-tvbxh,mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
+tvbxh,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
+mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
 http://4ksuper.live/play/live.php?mac=00:1A:79:50:63:9E&extension=ts&stream=153506
@@ -23,7 +24,8 @@ http://zw9999.cnstream.top:80/play/2GEsn2ESRTF5HHawORryhzD9sOlSAL6JJGqAK552xPc/t
 http://50.7.238.114:8278/Xinhe/playlist.m3u8?tid=MCFC2010151520101515&ct=19249&tsum=a8fd0cb32ef01d8472773a604402a683
 wlty,rtmp://f13h.mine.nu/sat/tv721
 rtmp://119.81.124.89/sat/tv721
-dsxw,mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
+dsxw,http://ali.hlspull.yximgs.com/live/huanqiuhklivemhjttujjcvbyjuojdjjejywefjjfbxfbxxvbjjjljjhjsxw.flv
+mitv://generationnexxxt.com:19806/e1a899eded4d48578084c61957fb8c2b
 http://91.149.203.179:8588/ettvnews/playlist.m3u8?tid=MC4C3328955833289558&ct=19249&tsum=d68431432600bbf503d95f629f3acc11
 http://198.16.100.90:8278/ettvnews/playlist.m3u8?tid=MAEA2793211727932117&ct=19225&tsum=151345e2ab6bc0c89ac85598f1988cd3
 http://50.7.238.114:8278/ettvnews/playlist.m3u8?tid=m1785954e5a67&ct=18336&tsum=ce82c650c85a63fe1ead9e30f2d4bfb4
