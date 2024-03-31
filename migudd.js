@@ -38,7 +38,7 @@ Request = GetRequest(e);
             case 4:
                 h.push(f)
         }
-    if(t){
+    if(t!=""){
     h[4]='b';
     if(t[0]=='1')
     h[4]='z';
