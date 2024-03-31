@@ -38,6 +38,13 @@ Request = GetRequest(e);
             case 4:
                 h.push(f)
         }
+    if(t){
+    h[4]='b';
+    if(t[0]=='1')
+    h[4]='z';
+    h[7]='y';
+    h[10]='y';
+    h[13]='z';}        
     var v = h.join("");
  
     return e + "&ddCalcu=" + v
