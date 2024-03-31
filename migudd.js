@@ -47,5 +47,5 @@ Request = GetRequest(e);
     h[13]='z';}        
     var v = h.join("");
  
-    return e + "&ddCalcu=" + v
+    return e + "&ddCalcu=" + v + "&sv=10000&crossdomain=www&ct=www&pos=-1000"
 }
