@@ -38,14 +38,17 @@ Request = GetRequest(e);
             case 4:
                 h.push(f)
         }
+    var z="";
     if(t){
     h[4]='b';
     if(t[0]=='1')
     h[4]='z';
     h[7]='y';
     h[10]='y';
-    h[13]='z';}        
+    h[13]='z';
+    z="&sv=10000&crossdomain=www&ct=www&pos=-1000";    
+    }        
     var v = h.join("");
  
-    return e + "&ddCalcu=" + v + "&sv=10000&crossdomain=www&ct=www&pos=-1000"
+    return e + "&ddCalcu=" + v + z
 }
