@@ -38,10 +38,6 @@ Request = GetRequest(e);
             case 4:
                 h.push(f)
         }
-    h[4]='b';
-    h[7]='y';
-    h[10]='y';
-    h[13]='z';
     var v = h.join("");
  
     return e + "&ddCalcu=" + v
