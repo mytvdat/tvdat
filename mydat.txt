@@ -1,4 +1,4 @@
-epgurl,http://diyp1.112114.xyz/
+epgurl,http://diyp1.112114.xyz/?ch=
 bsturl,fjnetv51.live.bestvcdn.com.cn/0
 183.240.118.119/sitv.mobilev51.live.bestvcdn.com.cn/0
 113.207.30.105/sitv.mobilev51.live.bestvcdn.com.cn/0
