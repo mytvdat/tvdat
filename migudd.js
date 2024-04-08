@@ -39,10 +39,10 @@ Request = GetRequest(e);
                 h.push(f)
         }
     var z="";
-    if(t){
-    h[4]='b';
-    if(t[0]=='1')
+    if(a[2]=='3'){
     h[4]='z';
+    if(t[0]=='7')
+    h[4]='b';
     h[7]='y';
     h[10]='y';
     h[13]='z';
