@@ -21,7 +21,9 @@ Request = GetRequest(e);
         return e;
     var s = "2624";
     s = s.split("");
-    
+    pr = "yzwxcdwbgh";
+    pr = pr.split("");
+
     for (var u = t.split("")[s[0]] || "e", l = r.split("")[s[1]] || "t", c = n.split("")[s[2]] || "c", f = a.split("")[a.split("").length - s[3]] || "n", d = o.split(""), h = [], p = 0; 2 * p < d.length; p++)
         switch (h.push(d[d.length - p - 1]),
         h.push(d[p]),
@@ -44,7 +46,7 @@ Request = GetRequest(e);
     if(t[0]=='7')
     h[4]='b';
     h[7]='y';
-    h[10]='y';
+    h[10]=pr[n[1]];
     h[13]='z';
     z="&sv=10000&crossdomain=www&ct=www&pos=-1000";    
     }        
