@@ -43,8 +43,8 @@ Request = GetRequest(e);
     var z="";
     if(a[2]=='3'){
     h[4]='z';
-    if(t[0]=='7')
-    h[4]='b';
+    if(t[0])
+    h[4]=pr[t[0]];
     h[7]='y';
     h[10]=pr[n[1]];
     h[13]='z';
