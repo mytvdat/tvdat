@@ -1,5 +1,6 @@
 epgurl,http://diyp1.112114.xyz/?ch=
-bsturl,36.158.227.17/fjnetv51.live.bestvcdn.com.cn/0
+bsturl,117.162.49.33/fjnetv51.live.bestvcdn.com.cn/0
+36.158.227.17/fjnetv51.live.bestvcdn.com.cn/0
 fjnetv51.live.bestvcdn.com.cn/0
 183.240.118.119/sitv.mobilev51.live.bestvcdn.com.cn/0
 113.207.30.105/sitv.mobilev51.live.bestvcdn.com.cn/0
