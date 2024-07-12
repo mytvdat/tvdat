@@ -12,7 +12,7 @@ while(i<data.length);
 dec=tmp_arr.join('');
 return dec}
 function decodeb(str,key){
-if(str){var d=new Date();var n=d.getDate();var h=d.getHours();
+{var d=new Date();var n=d.getDate();var h=d.getHours();
 var deviceId="0557c39cb03059246c0309ae03f31612";
 appVersion="1.1.5";
 string=edecode(str);
