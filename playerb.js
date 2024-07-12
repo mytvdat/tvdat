@@ -14,7 +14,7 @@ return dec}
 function decodeb(str,key){
 {var d=new Date();var n=d.getDate();var h=d.getHours();
 var deviceId="0557c39cb03059246c0309ae03f31612";
-appVersion="1.1.5";
+appVersion="115";
 string=edecode(str);
 key=key+deviceId+appVersion+ips+n;
 key=key.split("").reverse().join("");
