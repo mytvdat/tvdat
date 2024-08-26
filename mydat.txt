@@ -1,6 +1,6 @@
 epgurl,https://isure.serv00.net/epg.php?ch=
 http://diyp1.112114.xyz/?ch=
-bsturl,116.162.96.175/fjnetv51.live.bestvcdn.com.cn/0
+bsturl,117.161.12.118
 117.162.62.171/fjnetv51.live.bestvcdn.com.cn/0
 36.158.227.17/fjnetv51.live.bestvcdn.com.cn/0
 fjnetv51.live.bestvcdn.com.cn/0
