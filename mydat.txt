@@ -20,7 +20,7 @@ live-gitv-hb-yh.189smarthome.com
 43.141.130.51/sitv.mobilev51.live.bestvcdn.com.cn/0
 fjbciptv.live.bestvcdn.com.cn
 tt-live.bestvcdn.com.cn
-tvbxh,https://guot55.serv00.net/Smartv.php?id=Xinhe
+tvbxh,https://stream1.freetv.fun/2e73c35c9d4b2d73ceda43bec8220855e171d39c620940ffd3022b7270ba8c71.ctv
 mitv://generationnexxxt.com:19806/0c08d9d705a747908c23ba652726d777
 https://epg.pw/stream/eee97f3ab8d484adff720fc3c90eb1f280b02264d5d2e3971262bb416aab5767.m3u8
 https://edge6a.v2h-cdn.com/xinghe/xinghe.stream/chunklist.m3u8
